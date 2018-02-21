@@ -8,8 +8,8 @@ Listening to music, watching movies, eating, sleeping and singing.
 # Favourite English Movies
 Lucy, Extraterrestrial, Transformers, Coherence etc.,
 
-# Favourite Tamil Movies
-Ratchagan,Mankatha, Vasool Raja MBBS, Mersal, Romeo Juliet etc.,
+# School
+Kongu vellalar Matric Hr.Sec.School, Karur.
 
 # Contact details
 ## Email-id
