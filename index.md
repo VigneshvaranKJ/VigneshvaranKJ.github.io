@@ -9,11 +9,7 @@ Listening to music, watching movies, eating, sleeping and singing.
 Lucy, Extraterrestrial, Transformers, Coherence etc.,
 
 # School
-<<<<<<< HEAD
-Kongu vellalar Matric Hr.sec.school, Karur - 639002
-=======
-Kongu vellalar Matric Hr.Sec.School, Karur.
->>>>>>> 99df77a1f86ad88eba39fba5b379c20f237b2687
+Kongu vellalar Matric Hr.Sec.School, Karur-639002.
 
 # Contact details
 ## Email-id
