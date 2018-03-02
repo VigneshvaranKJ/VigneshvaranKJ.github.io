@@ -35,7 +35,7 @@ IIIrd Year
 ### Ongoing Project
 LoRaWAn
 
-### Interships Attended
+### Internships Attended
 1) Southern Railways (1 Month)
 
 2) PG Connect Networking (15 Days)
