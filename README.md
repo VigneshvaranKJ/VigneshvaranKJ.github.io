@@ -33,7 +33,7 @@ Electronics and Communication Engineering (**ECE**)
 IIIrd Year
 
 ### Ongoing Project
-LoRaWAn
+LoRaWAN
 
 ### Internships Attended
 1) Southern Railways (1 Month)
