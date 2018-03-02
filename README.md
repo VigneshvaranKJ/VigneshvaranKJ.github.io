@@ -17,10 +17,10 @@ Sivagangai - 630561.
 ### School 
 Kongu vellalar Matric Hr.Sec.School.
 
-#### % of marks in SSLC
+#### Percentage of marks in SSLC
 96%
 
-#### % of marks in HSC
+#### Percentage of marks in HSC
 84%
 
 ### College 
@@ -32,7 +32,10 @@ Electronics and Communication Engineering (**ECE**)
 #### Year
 IIIrd Year
 
-### Interships Attened
+### Ongoing Project
+LoRaWAn
+
+### Interships Attended
 1) Southern Railways (1 Month)
 
 2) PG Connect Networking (15 Days)
