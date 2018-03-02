@@ -3,18 +3,36 @@
 ### Name 
 K.J.Vigneshvaran
 
+### Date Of birth
+26/08/1997
+
+### Address
+41/13 A, Thirukkural Illam,
+College road,
+Sivagangai - 630561.
+
 ### REG.NO 
 912015106027
 
 ### School 
 Kongu vellalar Matric Hr.Sec.School.
 
+#### % of marks in SSLC
+96%
 
+#### % of marks in HSC
+84%
 
 ### College 
 Pandian Saraswathi Yadav Engineering College.
 
-### Interships
+#### Branch
+Electronics and Communication Engineering (**ECE**)
+
+#### Year
+IIIrd Year
+
+### Interships Attened
 1) Southern Railways (1 Month)
 
 2) PG Connect Networking (15 Days)
@@ -22,7 +40,12 @@ Pandian Saraswathi Yadav Engineering College.
 ### Hobbies
 Listening to music, watching movies, eating, sleeping and singing.
 
+### Area of Interests
+Singing, Travelling, Boxing, Social Works.
 
-## Email-id
+### Email-id
 vigneshvarankj@gmail.com
+
+### Mobile
+9715024374
 
