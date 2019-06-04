@@ -33,7 +33,7 @@ Electronics and Communication Engineering (**ECE**)
 Finished
 
 ### Company
-Chainsys
+Chain-sys
 
 ### Internships Attended
 1) Southern Railways (1 Month)
