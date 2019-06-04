@@ -15,7 +15,7 @@ Sivagangai - 630561.
 912015106027
 
 ### School 
-Kongu vellalar Matric Hr.Sec.School.
+Kongu Vellalar Matric Hr.Sec.School.
 
 #### Percentage of marks in SSLC
 96%
@@ -30,15 +30,17 @@ Pandian Saraswathi Yadav Engineering College.
 Electronics and Communication Engineering (**ECE**)
 
 #### Year
-IIIrd Year
+Finished
 
-### Ongoing Project
-LoRaWAN
+### Company
+Chainsys
 
 ### Internships Attended
 1) Southern Railways (1 Month)
 
 2) PG Connect Networking (15 Days)
+
+3) A&T Video Networks (1 Month)
 
 ### Hobbies
 Listening to music, watching movies, eating, sleeping and singing.
